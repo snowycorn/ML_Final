@@ -1,8 +1,8 @@
 # ML_Final
 ## Training Code 
-train.ipynb
+run code `train.ipynb`
 ## Evaluation Code
-inference.ipynb
+run code `inference.ipynb`
 ## Pre-trained model
 Trained model and processed test data can be download from: 
 https://drive.google.com/drive/folders/1kIv4G0iCMRG9KLDSBqf6iV8iYkwx5z4F?usp=sharing
